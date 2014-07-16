@@ -1,0 +1,31 @@
+// DO NOT MERGE
+
+    <color name="incall_call_banner_background">#80000000</color>
+    <color name="incall_secondary_info_background">#7033b5e5</color>
+    
+    <color name="actionbar_background_color">#ff3b77e7</color>
+    <color name="dialpad_secondary_text_color">#ff8b8b8b</color>
+    
+    <color name="dialpad_primary_text_color">#ff3b77e7</color>
+    
+    <color name="actionbar_underline">#ff3265c1</color>
+    
+    <color name="tab_underline_selected_color">#ff3265c1</color
+    
+    <color name="tab_selected_color">#ff3b77e7</color>
+    
+    <color name="call_stats_incoming">#ff33b5e5</color>
+    <color name="call_stats_outgoing">#ff99cc00</color>
+    <color name="call_stats_missed">#ffeb1313</color>
+    <color name="call_stats_bar_background">#88888888</color>
+    <color name="call_log_divider">#55ffffff</color>
+    <color name="call_detail_photo_bg">#7f000000</color>
+    <color name="dialpad_fragment_spacer">#00000000</color>
+    <color name="call_log_primary_text_color">#ff000000</color>
+    <color name="call_log_primary_background_color">#ff000000</color>
+    <color name="call_log_secondary_text_color">#ff888888</color>
+    <color name="call_log_secondary_background_color">#ff333333</color>
+    <color name="call_log_header_color">#ff33b5e5</color>
+    <color name="call_log_voicemail_status_background_color">#ff262626</color>
+    <color name="call_log_voicemail_status_text_color">#ff888888</color>
+    <color name="call_log_voicemail_status_action_text_color">#ff33b5e5</color>
